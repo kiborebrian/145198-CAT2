@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    // Declare variables to store input numbers
+    // Declare variables
     int num1, num2, num3;
 
     // Get input from the user
